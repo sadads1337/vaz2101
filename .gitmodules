@@ -1,0 +1,6 @@
+[submodule "cpp/DeepGTAV"]
+	path = cpp/DeepGTAV
+	url = https://github.com/sadads1337/DeepGTAV.git
+[submodule "python/VPilot"]
+	path = python/VPilot
+	url = https://github.com/aitorzip/VPilot.git
